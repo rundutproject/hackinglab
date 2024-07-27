@@ -51,12 +51,3 @@ _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution th
 **After Running the script, the script will perform all the tasks automatically and will setup everything including termux configuration, python modules, termux packages, tools.**
 
 
-## ©️ Copyright Message
-Copyright © [2023-24] [CyberEdge]
-
-All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of cyberedge. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
-
-Unauthorized use of this project, in part or in whole, may violate applicable copyright laws.
-
-For inquiries or permission requests, please contact gmanofficial.contact@gmail.com.
-
